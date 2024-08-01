@@ -53,5 +53,3 @@ The LightGBM model demonstrated superior performance in detecting fraudulent tra
 - Further refinement of the feature engineering process to include more sophisticated network analysis metrics.
 - Exploration of additional machine learning algorithms and ensemble methods to enhance detection accuracy.
 - Implementation of real-time fraud detection systems using the chosen model for immediate action on suspected fraudulent transactions.
-
-By following these steps, the project effectively addressed the business problem, delivering actionable insights and substantial financial benefits.
